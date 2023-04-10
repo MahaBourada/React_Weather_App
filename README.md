@@ -1,3 +1,7 @@
+# Preview of the react weather application
+
+![Screenshot](https://user-images.githubusercontent.com/129193860/230942718-1f895963-b95a-4815-a179-ae80ffc09897.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
