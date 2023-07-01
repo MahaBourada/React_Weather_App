@@ -1,5 +1,8 @@
-# Preview of the React weather application
+# React weather application
+Weather application developed using ReactJS and the Open Weather Map API.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/129193860/230942718-1f895963-b95a-4815-a179-ae80ffc09897.jpg" alt="React Weather App">
-</p>
+#Preview
+
+
+https://github.com/MahaBourada/React_Weather_App/assets/129193860/a50f8139-2290-48de-a6d4-1206684549a2
+
